@@ -1,0 +1,15 @@
+I started playing chess at the age of 4, and have ever since been completely absorbed by the unimaginable complexity of the game. I'm a professional player, and I would say I've played about 10000 different games. But what absolutely stupefies me is the fact that within those 64 squares, there lies more than <a href="http://www.popsci.com/science/article/2010-12/fyi-how-many-different-ways-can-chess-game-unfold"><i>288 billion</i> unique combinations</a> of games, after just 4 moves apiece. It's scary to think that no matter how many games I will play in my lifetime, in the eyes of mathematics, I'm merely a novice.<br><br>
+
+Math is everything. To better understand my rather courageous statement, let's try a simple exercise: let's assume that every single object in our universe has a number ID. For example, an apple is <b>21</b>, and a guitar is <b>408734</b>. And now, let's look at one of the most revered numbers in all of history, pi. It is a real number, and is a constant. Yet, it has a never-ending number of decimals, which goes on and on, to infinity. And in that countless series, somewhere, somehow, there must definitely be a <b>21</b>, and a <b>408734</b>. My point is that our universe might be the largest thing that our smartest scientists on Earth know about, yet the entire darn thing can be encapsulated in a value less than 4. <b><u>If math is infinity, math is everything</u></b>.<br><br>
+
+<figure><img class="image center" src="images/pi_meme.jpg" alt="Pi Meme" /><br><br>
+
+So if we can settle on the idea that infinity is a subset of math, let's focus a little bit more on this rather unimaginable subset. Does infinity <i>actually</i> exist in nature? Taking the example of time, we can claim that time is infinite. But time is a synthetic concept, a <a href="http://sociologyinfocus.com/2014/03/how-time-is-a-social-construct/">social construct</a> (whoa, major assumption, dude! Maybe the link will help explain my stance). Before I let you ponder about how infinity is a social construct, let's reverse-engineer the notion, and try the inverse: <br><br>
+
+<img class="image center" src="images/inverse.jpg" alt="Understanding inverses in math" /><br><br>
+
+So in this case, the hypothesis is infinity, and the conclusion is that it is a construct. So by negating the hypothesis, we get "not infinity". What I'm going to assume now might not be an acceptable approach in mathematics, but for the sake of this <del>article</del> argument, I'm going to multiplicatively invert infinity, and make "not infinity" equal to zero. And negating the conclusion, we get "not a construct", or a <i>natural</i>. <br><br>
+
+Huh. So the inverse of our statement is that zero is natural. But is it? For starters, zero is not even in the domain of natural numbers. It is an <a href="http://www.history.com/news/ask-history/who-invented-the-zero">invention</a>, and that makes it quite obvious that the inverse of the statement is false.<br><br>
+
+Well that really doesn't help in understanding the concept (incorrect word? still, unsure) of infinity. But it leaves us with a deeper idea of what is indeed a <b>truly beautiful confusion</b>.
