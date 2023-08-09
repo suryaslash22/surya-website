@@ -1,10 +1,10 @@
 Sudharsan Surya - Personal Website
 
-Intro
+Intro: 
 This is my personal website, which has a brief introduction of my background, interests and experiences, both professional and extra-curricular.
 
-URL
+URL: 
 https://suryaslash22.github.io/
 
-Author
+Author: 
 Sudharsan Surya
